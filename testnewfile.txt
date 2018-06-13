@@ -1,0 +1,1 @@
+This is a test new  file. For the testing purpose of the git commands
