@@ -1,4 +1,4 @@
 # TestGitHub
 Github Tutorial
 New line  for testing
-This is for testing conflicts
+Conflicts are checked and now its corrected.
